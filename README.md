@@ -1,3 +1,8 @@
 # Rock Paper Scissors LAN Java Edition
-This was the capstone project for my computer science course at SUNY Finger Lakes, and the goal was to re-create a well-known game into a network-based computer game using Java and JavaFX. The game chosen was Rock Paper Scissors. 
+This was the capstone project for my computer science course at SUNY Finger Lakes, and the goal was to re-create a well-known game into a network-based computer game using Java and JavaFX. 
+
+The game chosen was Rock Paper Scissors. 
+
+Below is the Unified Modeling Language chart for the design of the game, from client to server:
+
 ![Picture](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/RPS%20ClientServer%20-%20UML.png)
