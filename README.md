@@ -11,9 +11,13 @@ GameServer.Java is launched initially, and is responsible for communicating with
 
 The job of the client is to connect with the server, sending inputs for the server to calculate and return values to interpret.
 
-![Welcome Screen](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Startup.png)
+
+
 
 When you startup the client and join the server, you are greeted with this screen displaying the rules, and your choice of weapons.
+
+![Welcome Screen](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Startup.png)
+
 
 
 
@@ -24,6 +28,7 @@ Once you've joined the server, you will be told to wait for another player, or w
 
 
 Once the game is played, the game can end in... 
+
 ...a win: ![Win](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Win.png)  
 
 ...a loss: ![Lose](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Lose.png)  
