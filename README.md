@@ -1,1 +1,1 @@
-# Rock-Paper-Scissors-LAN
+# Rock Paper Scissors LAN Java Edition
