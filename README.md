@@ -17,14 +17,14 @@ The job of the client is to connect with the server, sending inputs for the serv
 
 The game in action
 - 
-- When you startup the client and join the server, you are greeted with this screen displaying the rules, and your choice of weapons.
+- When the player starts up the client and joins the server, they are greeted with this screen displaying the rules, and their choice of weapons.
 
 ![Welcome Screen](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Startup.png)
 
 
 
 
-- Once you've joined the server, you will be told to wait for another player, or will be assigned Player 1 or 2.  
+- Once the player has joined the server, the player will be told to wait for another player, or will be assigned Player 1 or 2.  
 
 ![Player 1 Wait...](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Wait%201.png)  ![Player 2 Wait...](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Wait%202.png)
 
@@ -37,3 +37,5 @@ The game in action
 ...a loss: ![Lose](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Lose.png)  
 
 ...or a draw: ![Player 1 Draw](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Draw%201.png)  ![Player 2 Draw](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Draw%202.png)
+
+In order to replay, the player must exit and restart the client. The server will keep of track of how many matches have been made.
