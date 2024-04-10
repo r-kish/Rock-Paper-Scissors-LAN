@@ -10,10 +10,10 @@ Below is the Unified Modeling Language chart for the design of the game, from cl
 GameServer.Java is launched initially, and is responsible for communicating with multiple instances of GameClient.java.
 
 The job of the client is to connect with the server, sending inputs for the server to calculate and return values to interpret.
-
-
-
-
+-
+-
+-
+-
 When you startup the client and join the server, you are greeted with this screen displaying the rules, and your choice of weapons.
 
 ![Welcome Screen](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/photos/Startup.png)
