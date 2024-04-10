@@ -7,9 +7,9 @@ Below is the Unified Modeling Language chart for the design of the game, from cl
 
 ![Picture](https://github.com/r-kish/Rock-Paper-Scissors-LAN/blob/main/RPS%20ClientServer%20-%20UML.png)
 
-GameServer.Java is launched initially, and is responsible for communicating with multiple instances of GameClient.java.
+GameServer.Java is launched initially, and is responsible for communicating and waiting for responses with multiple instances of GameClient.java. The server will always stay open, and will constantly be looking for two clients to create a match for.
 
-The job of the client is to connect with the server, sending inputs for the server to calculate and return values to interpret.
+The job of the client is to create a connection with the server, sending inputs for the server to calculate and return values to interpret.
 
 
 
